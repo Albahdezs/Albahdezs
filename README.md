@@ -8,7 +8,7 @@ Soy **Diseñadora Gráfica** con un enfoque en *desarrollo web*. Actualmente, me
 ## Repositorios 🖥️
 Aquí encontrarás parte de mis proyectos y repositorios:
 
-- **[Simon Game](https://albahdezs.github.io/Simon-js-game/)**
+- **[Pixel Art](https://albahdezs.github.io/pixel-art/)**
 - **[Tarjeta San Jorge](https://albahdezs.github.io/card-sanjorge/)**
 - **[Cuaderno de notas](https://albahdezs.github.io/cuaderno-de-notas/)**
 
