@@ -10,7 +10,7 @@ Aquí encontrarás parte de mis proyectos y repositorios:
 
 - **[Simon Game](https://albahdezs.github.io/Simon-js-game/)**
 - **[Tarjeta San Jorge](https://albahdezs.github.io/card-sanjorge/)**
-- **[Piedra, papel o tijera](https://albahdezs.github.io/piedra-papel-tijera/)**
+- **[Cuaderno de notas](https://albahdezs.github.io/cuaderno-de-notas/)**
 
 ---
 
