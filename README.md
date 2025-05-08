@@ -15,21 +15,9 @@ Aquí encontrarás parte de mis proyectos y repositorios:
 ---
 
 ## Tecnologías y lenguajes 📚
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-- ![Tailwind](https://img.shields.io/badge/Tailwind-61DAFB?style=flat-square&logo=tailwindcss&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-- ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![WordPress](https://img.shields.io/badge/WordPress-2175B9?style=flat-square&logo=wordpress&logoColor=white)
+![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,tailwind,bootstrap,figma,wordpress,py,vscode,vite,github)<br />
 
----
-
-## Control de Versiones :octocat:
-- ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github)
+![Design Skills](https://skillicons.dev/icons?i=ps,ai,pr,codepen,)
 
 ---
 
