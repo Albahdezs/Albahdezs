@@ -5,15 +5,17 @@ Soy **Diseñadora Gráfica** con un enfoque en *desarrollo web*. Actualmente, me
 
 ---
 
-## Repositorios 🖥️
-Aquí encontrarás parte de mis proyectos y repositorios:
+## Live de Aplicaciones 🖥️
 
-- **[Pixel Art](https://albahdezs.github.io/pixel-art/)**
-- **[Tarjeta San Jorge](https://albahdezs.github.io/card-sanjorge/)**
-- **[Cuaderno de notas](https://albahdezs.github.io/cuaderno-de-notas/)**
-- **[Tira los dados](https://albahdezs.github.io/tira-los-dados/)**
-- **[Meteo](https://albahdezs.github.io/meteo/)**
-- **[Mi maleta](https://albahdezs.github.io/mi-maleta/)**
+| Proyecto                 | Demo Live                                                | Repositorio                                                                                                             |
+| ------------------------ | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 🎨 **Pixel Art**         | [🌐 Demo](https://albahdezs.github.io/pixel-art/)         | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/albahdezs/pixel-art)         |
+| 🧙 **Tarjeta San Jorge** | [🌐 Demo](https://albahdezs.github.io/card-sanjorge/)     | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/albahdezs/card-sanjorge)     |
+| 📝 **Cuaderno de notas** | [🌐 Demo](https://albahdezs.github.io/cuaderno-de-notas/) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/albahdezs/cuaderno-de-notas) |
+| 🎲 **Tira los dados**    | [🌐 Demo](https://albahdezs.github.io/tira-los-dados/)    | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/albahdezs/tira-los-dados)    |
+| ☁️ **Meteo**             | [🌐 Demo](https://albahdezs.github.io/meteo/)             | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/albahdezs/meteo)             |
+| 🧳 **Mi maleta**         | [🌐 Demo](https://albahdezs.github.io/mi-maleta/)         | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/albahdezs/mi-maleta)         |
+
 
 ---
 
