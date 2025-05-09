@@ -13,6 +13,7 @@ Aquí encontrarás parte de mis proyectos y repositorios:
 - **[Cuaderno de notas](https://albahdezs.github.io/cuaderno-de-notas/)**
 - **[Tira los dados](https://albahdezs.github.io/tira-los-dados/)**
 - **[Meteo](https://albahdezs.github.io/meteo/)**
+- **[Mi maleta](https://albahdezs.github.io/mi-maleta/)**
 
 ---
 
