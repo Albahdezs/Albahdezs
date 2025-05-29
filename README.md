@@ -3,6 +3,12 @@
 ## Sobre mí 👩‍💻
 Soy **Diseñadora Gráfica** con un enfoque en *desarrollo web*. Actualmente, me estoy formando como **Full-Stack Developer**, con un perfil orientado al **Frontend**. Mi pasión por el diseño y la tecnología me ha llevado a combinar mi formación en diseño gráfico con habilidades en programación, creando experiencias atractivas y funcionales.
 
+<div>
+  <a>
+   <img src="https://komarev.com/ghpvc/?username=albahdezs&style=flat-square&color=red"/>
+  <a/>
+<div>
+
 ---
 
 ## Live de Aplicaciones 🖥️
